@@ -7,5 +7,5 @@ Open an `IPython` terminal in your `patchviewer` directory and run the widget sc
 run interact_patches.py
 ```
 Below is a simple demonstration of what the widget should look like for a single time (or longitude) series.
-![Alt text](plots/expected_interactive_plot.png)
+![Alt text](Figures/expected_interactive_plot.png)
 
